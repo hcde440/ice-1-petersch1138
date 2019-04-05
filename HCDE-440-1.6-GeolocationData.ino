@@ -126,7 +126,7 @@ String getIP() {
       return "error";
     }
   }
-  return ipAddress; returns the external IP address as a string
+  return ipAddress; //returns the external IP address as a string
 }
 
 void getGeo(String ipAddress) {
